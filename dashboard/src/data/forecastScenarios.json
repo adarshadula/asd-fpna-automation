@@ -1,0 +1,430 @@
+{
+  "history": {
+    "LC": [
+      {
+        "quarter": "2024-Q4",
+        "plan": 94999200,
+        "actual": 93547000
+      },
+      {
+        "quarter": "2025-Q1",
+        "plan": 95950200,
+        "actual": 94433200
+      },
+      {
+        "quarter": "2025-Q2",
+        "plan": 96910000,
+        "actual": 98217000
+      },
+      {
+        "quarter": "2025-Q3",
+        "plan": 97879000,
+        "actual": 98331800
+      },
+      {
+        "quarter": "2025-Q4",
+        "plan": 98858200,
+        "actual": 98784800
+      },
+      {
+        "quarter": "2026-Q1",
+        "plan": 99845800,
+        "actual": 99561000
+      },
+      {
+        "quarter": "2026-Q2",
+        "plan": 100843800,
+        "actual": 101464100
+      }
+    ],
+    "Mass Spec": [
+      {
+        "quarter": "2024-Q4",
+        "plan": 69998700,
+        "actual": 69224000
+      },
+      {
+        "quarter": "2025-Q1",
+        "plan": 70981000,
+        "actual": 70417200
+      },
+      {
+        "quarter": "2025-Q2",
+        "plan": 71974000,
+        "actual": 72745900
+      },
+      {
+        "quarter": "2025-Q3",
+        "plan": 72981100,
+        "actual": 72419000
+      },
+      {
+        "quarter": "2025-Q4",
+        "plan": 74002400,
+        "actual": 73781200
+      },
+      {
+        "quarter": "2026-Q1",
+        "plan": 75039000,
+        "actual": 74387900
+      },
+      {
+        "quarter": "2026-Q2",
+        "plan": 76090100,
+        "actual": 72497300
+      }
+    ],
+    "Chemicals": [
+      {
+        "quarter": "2024-Q4",
+        "plan": 30000000,
+        "actual": 30691900
+      },
+      {
+        "quarter": "2025-Q1",
+        "plan": 30180000,
+        "actual": 30268100
+      },
+      {
+        "quarter": "2025-Q2",
+        "plan": 30360900,
+        "actual": 31010000
+      },
+      {
+        "quarter": "2025-Q3",
+        "plan": 30543200,
+        "actual": 29747900
+      },
+      {
+        "quarter": "2025-Q4",
+        "plan": 30726900,
+        "actual": 28269000
+      },
+      {
+        "quarter": "2026-Q1",
+        "plan": 30911200,
+        "actual": 31719100
+      },
+      {
+        "quarter": "2026-Q2",
+        "plan": 31095900,
+        "actual": 31001000
+      }
+    ],
+    "Informatics": [
+      {
+        "quarter": "2024-Q4",
+        "plan": 18000000,
+        "actual": 18127100
+      },
+      {
+        "quarter": "2025-Q1",
+        "plan": 18449900,
+        "actual": 18360000
+      },
+      {
+        "quarter": "2025-Q2",
+        "plan": 18911000,
+        "actual": 18689900
+      },
+      {
+        "quarter": "2025-Q3",
+        "plan": 19384000,
+        "actual": 18893100
+      },
+      {
+        "quarter": "2025-Q4",
+        "plan": 19869100,
+        "actual": 19604100
+      },
+      {
+        "quarter": "2026-Q1",
+        "plan": 20365100,
+        "actual": 23420000
+      },
+      {
+        "quarter": "2026-Q2",
+        "plan": 20873900,
+        "actual": 20658000
+      }
+    ]
+  },
+  "forecast": {
+    "LC": {
+      "driver": "Capital equipment refresh cycle and competitive win rate on new LC platforms",
+      "scenarios": {
+        "base": {
+          "quarterly_growth_rate": 0.01,
+          "values": [
+            {
+              "quarter": "2026-Q4",
+              "revenue": 101835000
+            },
+            {
+              "quarter": "2027-Q1",
+              "revenue": 102854000
+            },
+            {
+              "quarter": "2027-Q2",
+              "revenue": 103882000
+            },
+            {
+              "quarter": "2027-Q3",
+              "revenue": 104921000
+            }
+          ]
+        },
+        "upside": {
+          "quarterly_growth_rate": 0.028,
+          "values": [
+            {
+              "quarter": "2026-Q4",
+              "revenue": 103650000
+            },
+            {
+              "quarter": "2027-Q1",
+              "revenue": 106552000
+            },
+            {
+              "quarter": "2027-Q2",
+              "revenue": 109536000
+            },
+            {
+              "quarter": "2027-Q3",
+              "revenue": 112603000
+            }
+          ]
+        },
+        "downside": {
+          "quarterly_growth_rate": -0.01,
+          "values": [
+            {
+              "quarter": "2026-Q4",
+              "revenue": 99819000
+            },
+            {
+              "quarter": "2027-Q1",
+              "revenue": 98820000
+            },
+            {
+              "quarter": "2027-Q2",
+              "revenue": 97832000
+            },
+            {
+              "quarter": "2027-Q3",
+              "revenue": 96854000
+            }
+          ]
+        }
+      },
+      "current_quarter_estimate": 100826900
+    },
+    "Mass Spec": {
+      "driver": "Large pharma capex timing and mass spec platform competitive displacement risk",
+      "scenarios": {
+        "base": {
+          "quarterly_growth_rate": 0.014,
+          "values": [
+            {
+              "quarter": "2026-Q4",
+              "revenue": 77435000
+            },
+            {
+              "quarter": "2027-Q1",
+              "revenue": 78519000
+            },
+            {
+              "quarter": "2027-Q2",
+              "revenue": 79618000
+            },
+            {
+              "quarter": "2027-Q3",
+              "revenue": 80733000
+            }
+          ]
+        },
+        "upside": {
+          "quarterly_growth_rate": 0.036,
+          "values": [
+            {
+              "quarter": "2026-Q4",
+              "revenue": 79115000
+            },
+            {
+              "quarter": "2027-Q1",
+              "revenue": 81963000
+            },
+            {
+              "quarter": "2027-Q2",
+              "revenue": 84914000
+            },
+            {
+              "quarter": "2027-Q3",
+              "revenue": 87971000
+            }
+          ]
+        },
+        "downside": {
+          "quarterly_growth_rate": -0.014,
+          "values": [
+            {
+              "quarter": "2026-Q4",
+              "revenue": 75297000
+            },
+            {
+              "quarter": "2027-Q1",
+              "revenue": 74243000
+            },
+            {
+              "quarter": "2027-Q2",
+              "revenue": 73203000
+            },
+            {
+              "quarter": "2027-Q3",
+              "revenue": 72178000
+            }
+          ]
+        }
+      },
+      "current_quarter_estimate": 76366000
+    },
+    "Chemicals": {
+      "driver": "Consumables replenishment rate and attach rate on the installed instrument base",
+      "scenarios": {
+        "base": {
+          "quarterly_growth_rate": 0.006,
+          "values": [
+            {
+              "quarter": "2026-Q4",
+              "revenue": 32033000
+            },
+            {
+              "quarter": "2027-Q1",
+              "revenue": 32225000
+            },
+            {
+              "quarter": "2027-Q2",
+              "revenue": 32418000
+            },
+            {
+              "quarter": "2027-Q3",
+              "revenue": 32613000
+            }
+          ]
+        },
+        "upside": {
+          "quarterly_growth_rate": 0.016,
+          "values": [
+            {
+              "quarter": "2026-Q4",
+              "revenue": 32351000
+            },
+            {
+              "quarter": "2027-Q1",
+              "revenue": 32869000
+            },
+            {
+              "quarter": "2027-Q2",
+              "revenue": 33394000
+            },
+            {
+              "quarter": "2027-Q3",
+              "revenue": 33929000
+            }
+          ]
+        },
+        "downside": {
+          "quarterly_growth_rate": -0.006,
+          "values": [
+            {
+              "quarter": "2026-Q4",
+              "revenue": 31650000
+            },
+            {
+              "quarter": "2027-Q1",
+              "revenue": 31461000
+            },
+            {
+              "quarter": "2027-Q2",
+              "revenue": 31272000
+            },
+            {
+              "quarter": "2027-Q3",
+              "revenue": 31084000
+            }
+          ]
+        }
+      },
+      "current_quarter_estimate": 31841500
+    },
+    "Informatics": {
+      "driver": "Pace of legacy Empower perpetual-to-SaaS subscription migration",
+      "scenarios": {
+        "base": {
+          "quarterly_growth_rate": 0.025,
+          "values": [
+            {
+              "quarter": "2026-Q4",
+              "revenue": 22122000
+            },
+            {
+              "quarter": "2027-Q1",
+              "revenue": 22675000
+            },
+            {
+              "quarter": "2027-Q2",
+              "revenue": 23242000
+            },
+            {
+              "quarter": "2027-Q3",
+              "revenue": 23823000
+            }
+          ]
+        },
+        "upside": {
+          "quarterly_growth_rate": 0.055,
+          "values": [
+            {
+              "quarter": "2026-Q4",
+              "revenue": 22769000
+            },
+            {
+              "quarter": "2027-Q1",
+              "revenue": 24021000
+            },
+            {
+              "quarter": "2027-Q2",
+              "revenue": 25343000
+            },
+            {
+              "quarter": "2027-Q3",
+              "revenue": 26736000
+            }
+          ]
+        },
+        "downside": {
+          "quarterly_growth_rate": 0.01,
+          "values": [
+            {
+              "quarter": "2026-Q4",
+              "revenue": 21798000
+            },
+            {
+              "quarter": "2027-Q1",
+              "revenue": 22016000
+            },
+            {
+              "quarter": "2027-Q2",
+              "revenue": 22236000
+            },
+            {
+              "quarter": "2027-Q3",
+              "revenue": 22458000
+            }
+          ]
+        }
+      },
+      "current_quarter_estimate": 21582100
+    }
+  }
+}

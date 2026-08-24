@@ -1,0 +1,769 @@
+quarter,product,type,geo,end_market,plan_revenue,actual_revenue
+2024-Q4,LC,Instruments,US,Pharma,9966800,9209900
+2024-Q4,LC,Instruments,US,Industrial,4181000,3868800
+2024-Q4,LC,Instruments,US,Academic & Government,4016200,4197700
+2024-Q4,LC,Instruments,China,Pharma,4649600,4606400
+2024-Q4,LC,Instruments,China,Industrial,1950400,1935000
+2024-Q4,LC,Instruments,China,Academic & Government,1873600,2099500
+2024-Q4,LC,Instruments,India,Pharma,2685100,2642200
+2024-Q4,LC,Instruments,India,Industrial,1126400,1109900
+2024-Q4,LC,Instruments,India,Academic & Government,1082000,1204300
+2024-Q4,LC,Instruments,Other,Pharma,6149000,5739900
+2024-Q4,LC,Instruments,Other,Industrial,2579400,2411200
+2024-Q4,LC,Instruments,Other,Academic & Government,2477700,2616200
+2024-Q4,LC,Chemistry,US,Pharma,7592900,7748000
+2024-Q4,LC,Chemistry,US,Industrial,2814100,3001700
+2024-Q4,LC,Chemistry,US,Academic & Government,3089100,3205200
+2024-Q4,LC,Chemistry,China,Pharma,3870300,3623500
+2024-Q4,LC,Chemistry,China,Industrial,1434400,1403800
+2024-Q4,LC,Chemistry,China,Academic & Government,1574600,1499000
+2024-Q4,LC,Chemistry,India,Pharma,2077100,2166900
+2024-Q4,LC,Chemistry,India,Industrial,769800,839500
+2024-Q4,LC,Chemistry,India,Academic & Government,845100,896400
+2024-Q4,LC,Chemistry,Other,Pharma,4964100,4807600
+2024-Q4,LC,Chemistry,Other,Industrial,1839800,1862500
+2024-Q4,LC,Chemistry,Other,Academic & Government,2019600,1988800
+2024-Q4,LC,Service,US,Pharma,4440400,4291900
+2024-Q4,LC,Service,US,Industrial,1756500,1706700
+2024-Q4,LC,Service,US,Academic & Government,1738400,1859000
+2024-Q4,LC,Service,China,Pharma,2153700,2111900
+2024-Q4,LC,Service,China,Industrial,851900,839800
+2024-Q4,LC,Service,China,Academic & Government,843200,914700
+2024-Q4,LC,Service,India,Pharma,1368500,1247200
+2024-Q4,LC,Service,India,Industrial,541300,496000
+2024-Q4,LC,Service,India,Academic & Government,535800,540200
+2024-Q4,LC,Service,Other,Pharma,2876900,2652200
+2024-Q4,LC,Service,Other,Industrial,1138100,1054700
+2024-Q4,LC,Service,Other,Academic & Government,1126400,1148800
+2024-Q4,Mass Spec,Instruments,US,Pharma,8220500,7624300
+2024-Q4,Mass Spec,Instruments,US,Industrial,3076100,3044500
+2024-Q4,Mass Spec,Instruments,US,Academic & Government,3366500,3136100
+2024-Q4,Mass Spec,Instruments,China,Pharma,4075400,3920700
+2024-Q4,Mass Spec,Instruments,China,Industrial,1525000,1565600
+2024-Q4,Mass Spec,Instruments,China,Academic & Government,1669000,1612700
+2024-Q4,Mass Spec,Instruments,India,Pharma,2273000,2379100
+2024-Q4,Mass Spec,Instruments,India,Industrial,850500,950000
+2024-Q4,Mass Spec,Instruments,India,Academic & Government,930800,978600
+2024-Q4,Mass Spec,Instruments,Other,Pharma,5132600,5039900
+2024-Q4,Mass Spec,Instruments,Other,Industrial,1920600,2012500
+2024-Q4,Mass Spec,Instruments,Other,Academic & Government,2101900,2073000
+2024-Q4,Mass Spec,Chemistry,US,Pharma,4553100,4415200
+2024-Q4,Mass Spec,Chemistry,US,Industrial,1843900,1864800
+2024-Q4,Mass Spec,Chemistry,US,Academic & Government,1994100,1880500
+2024-Q4,Mass Spec,Chemistry,China,Pharma,2051900,2089100
+2024-Q4,Mass Spec,Chemistry,China,Industrial,831000,882300
+2024-Q4,Mass Spec,Chemistry,China,Academic & Government,898700,889800
+2024-Q4,Mass Spec,Chemistry,India,Pharma,1259300,1304600
+2024-Q4,Mass Spec,Chemistry,India,Industrial,510000,551000
+2024-Q4,Mass Spec,Chemistry,India,Academic & Government,551500,555700
+2024-Q4,Mass Spec,Chemistry,Other,Pharma,2534700,2771800
+2024-Q4,Mass Spec,Chemistry,Other,Industrial,1026500,1170700
+2024-Q4,Mass Spec,Chemistry,Other,Academic & Government,1110100,1180600
+2024-Q4,Mass Spec,Service,US,Pharma,3479300,3606100
+2024-Q4,Mass Spec,Service,US,Industrial,1447200,1345300
+2024-Q4,Mass Spec,Service,US,Academic & Government,1501800,1430200
+2024-Q4,Mass Spec,Service,China,Pharma,1805700,1817500
+2024-Q4,Mass Spec,Service,China,Industrial,751100,678100
+2024-Q4,Mass Spec,Service,China,Academic & Government,779400,720800
+2024-Q4,Mass Spec,Service,India,Pharma,1002900,991400
+2024-Q4,Mass Spec,Service,India,Industrial,417200,369900
+2024-Q4,Mass Spec,Service,India,Academic & Government,432900,393200
+2024-Q4,Mass Spec,Service,Other,Pharma,2205300,2248100
+2024-Q4,Mass Spec,Service,Other,Industrial,917300,838700
+2024-Q4,Mass Spec,Service,Other,Academic & Government,951900,891600
+2024-Q4,Chemicals,Chemistry,US,Pharma,7138900,6909000
+2024-Q4,Chemicals,Chemistry,US,Industrial,3006700,2890800
+2024-Q4,Chemicals,Chemistry,US,Academic & Government,3124400,2931900
+2024-Q4,Chemicals,Chemistry,China,Pharma,3087500,3392600
+2024-Q4,Chemicals,Chemistry,China,Industrial,1300400,1419500
+2024-Q4,Chemicals,Chemistry,China,Academic & Government,1351300,1439700
+2024-Q4,Chemicals,Chemistry,India,Pharma,1858300,2061100
+2024-Q4,Chemicals,Chemistry,India,Industrial,782700,862400
+2024-Q4,Chemicals,Chemistry,India,Academic & Government,813300,874600
+2024-Q4,Chemicals,Chemistry,Other,Pharma,4054400,4292600
+2024-Q4,Chemicals,Chemistry,Other,Industrial,1707600,1796100
+2024-Q4,Chemicals,Chemistry,Other,Academic & Government,1774500,1821600
+2024-Q4,Informatics,Informatics,US,Pharma,4136900,4255700
+2024-Q4,Informatics,Informatics,US,Industrial,1765400,1732700
+2024-Q4,Informatics,Informatics,US,Academic & Government,1721000,1801000
+2024-Q4,Informatics,Informatics,China,Pharma,1825900,2008700
+2024-Q4,Informatics,Informatics,China,Industrial,779200,817800
+2024-Q4,Informatics,Informatics,China,Academic & Government,759600,850100
+2024-Q4,Informatics,Informatics,India,Pharma,1213000,1148600
+2024-Q4,Informatics,Informatics,India,Industrial,517600,467700
+2024-Q4,Informatics,Informatics,India,Academic & Government,504600,486100
+2024-Q4,Informatics,Informatics,Other,Pharma,2592200,2490600
+2024-Q4,Informatics,Informatics,Other,Industrial,1106200,1014100
+2024-Q4,Informatics,Informatics,Other,Academic & Government,1078400,1054000
+2025-Q1,LC,Instruments,US,Pharma,9706800,10386700
+2025-Q1,LC,Instruments,US,Industrial,3768400,3906600
+2025-Q1,LC,Instruments,US,Academic & Government,4299300,4092900
+2025-Q1,LC,Instruments,China,Pharma,4775000,4673500
+2025-Q1,LC,Instruments,China,Industrial,1853800,1757800
+2025-Q1,LC,Instruments,China,Academic & Government,2114900,1841600
+2025-Q1,LC,Instruments,India,Pharma,2746800,2840500
+2025-Q1,LC,Instruments,India,Industrial,1066400,1068400
+2025-Q1,LC,Instruments,India,Academic & Government,1216600,1119300
+2025-Q1,LC,Instruments,Other,Pharma,6594300,6226900
+2025-Q1,LC,Instruments,Other,Industrial,2560100,2342000
+2025-Q1,LC,Instruments,Other,Academic & Government,2920700,2453700
+2025-Q1,LC,Chemistry,US,Pharma,7404500,7208400
+2025-Q1,LC,Chemistry,US,Industrial,3109000,3038700
+2025-Q1,LC,Chemistry,US,Academic & Government,3050000,3135300
+2025-Q1,LC,Chemistry,China,Pharma,3632800,3373200
+2025-Q1,LC,Chemistry,China,Industrial,1525300,1421900
+2025-Q1,LC,Chemistry,China,Academic & Government,1496400,1467100
+2025-Q1,LC,Chemistry,India,Pharma,2158900,2262900
+2025-Q1,LC,Chemistry,India,Industrial,906500,953900
+2025-Q1,LC,Chemistry,India,Academic & Government,889300,984300
+2025-Q1,LC,Chemistry,Other,Pharma,5003500,4667100
+2025-Q1,LC,Chemistry,Other,Industrial,2100800,1967400
+2025-Q1,LC,Chemistry,Other,Academic & Government,2061000,2029900
+2025-Q1,LC,Service,US,Pharma,4286900,4474400
+2025-Q1,LC,Service,US,Industrial,1749200,1792300
+2025-Q1,LC,Service,US,Academic & Government,1801200,1856800
+2025-Q1,LC,Service,China,Pharma,2068000,2193400
+2025-Q1,LC,Service,China,Industrial,843800,878600
+2025-Q1,LC,Service,China,Academic & Government,868900,910200
+2025-Q1,LC,Service,India,Pharma,1210600,1247400
+2025-Q1,LC,Service,India,Industrial,494000,499700
+2025-Q1,LC,Service,India,Academic & Government,508700,517600
+2025-Q1,LC,Service,Other,Pharma,2821300,2667400
+2025-Q1,LC,Service,Other,Industrial,1151100,1068500
+2025-Q1,LC,Service,Other,Academic & Government,1185400,1106900
+2025-Q1,Mass Spec,Instruments,US,Pharma,8169600,8012700
+2025-Q1,Mass Spec,Instruments,US,Industrial,3048300,3193100
+2025-Q1,Mass Spec,Instruments,US,Academic & Government,3130900,3341400
+2025-Q1,Mass Spec,Instruments,China,Pharma,4014800,3594500
+2025-Q1,Mass Spec,Instruments,China,Industrial,1498000,1432400
+2025-Q1,Mass Spec,Instruments,China,Academic & Government,1538600,1499000
+2025-Q1,Mass Spec,Instruments,India,Pharma,2402800,2284300
+2025-Q1,Mass Spec,Instruments,India,Industrial,896600,910300
+2025-Q1,Mass Spec,Instruments,India,Academic & Government,920800,952600
+2025-Q1,Mass Spec,Instruments,Other,Pharma,5484900,4978000
+2025-Q1,Mass Spec,Instruments,Other,Industrial,2046600,1983800
+2025-Q1,Mass Spec,Instruments,Other,Academic & Government,2102000,2075900
+2025-Q1,Mass Spec,Chemistry,US,Pharma,4752400,4649700
+2025-Q1,Mass Spec,Chemistry,US,Industrial,1893800,2001600
+2025-Q1,Mass Spec,Chemistry,US,Academic & Government,1917200,1981800
+2025-Q1,Mass Spec,Chemistry,China,Pharma,2247500,2030800
+2025-Q1,Mass Spec,Chemistry,China,Industrial,895600,874200
+2025-Q1,Mass Spec,Chemistry,China,Academic & Government,906700,865600
+2025-Q1,Mass Spec,Chemistry,India,Pharma,1292400,1307100
+2025-Q1,Mass Spec,Chemistry,India,Industrial,515000,562700
+2025-Q1,Mass Spec,Chemistry,India,Academic & Government,521400,557100
+2025-Q1,Mass Spec,Chemistry,Other,Pharma,2858600,2915100
+2025-Q1,Mass Spec,Chemistry,Other,Industrial,1139200,1254900
+2025-Q1,Mass Spec,Chemistry,Other,Academic & Government,1153200,1242500
+2025-Q1,Mass Spec,Service,US,Pharma,3775900,3827200
+2025-Q1,Mass Spec,Service,US,Industrial,1493400,1558000
+2025-Q1,Mass Spec,Service,US,Academic & Government,1441900,1569200
+2025-Q1,Mass Spec,Service,China,Pharma,1680500,1704300
+2025-Q1,Mass Spec,Service,China,Industrial,664600,693800
+2025-Q1,Mass Spec,Service,China,Academic & Government,641700,698800
+2025-Q1,Mass Spec,Service,India,Pharma,1009000,1017100
+2025-Q1,Mass Spec,Service,India,Industrial,399000,414100
+2025-Q1,Mass Spec,Service,India,Academic & Government,385300,417000
+2025-Q1,Mass Spec,Service,Other,Pharma,2330900,2210400
+2025-Q1,Mass Spec,Service,Other,Industrial,921800,899900
+2025-Q1,Mass Spec,Service,Other,Academic & Government,890100,906300
+2025-Q1,Chemicals,Chemistry,US,Pharma,7007000,6813700
+2025-Q1,Chemicals,Chemistry,US,Industrial,2603700,2707900
+2025-Q1,Chemicals,Chemistry,US,Academic & Government,2735800,2952300
+2025-Q1,Chemicals,Chemistry,China,Pharma,3287700,3402600
+2025-Q1,Chemicals,Chemistry,China,Industrial,1221700,1352300
+2025-Q1,Chemicals,Chemistry,China,Academic & Government,1283700,1474300
+2025-Q1,Chemicals,Chemistry,India,Pharma,2213100,1925200
+2025-Q1,Chemicals,Chemistry,India,Industrial,822400,765100
+2025-Q1,Chemicals,Chemistry,India,Academic & Government,864100,834100
+2025-Q1,Chemicals,Chemistry,Other,Pharma,4620100,4392100
+2025-Q1,Chemicals,Chemistry,Other,Industrial,1716800,1745500
+2025-Q1,Chemicals,Chemistry,Other,Academic & Government,1803900,1903000
+2025-Q1,Informatics,Informatics,US,Pharma,4117700,4107600
+2025-Q1,Informatics,Informatics,US,Industrial,1653000,1731200
+2025-Q1,Informatics,Informatics,US,Academic & Government,1726400,1753700
+2025-Q1,Informatics,Informatics,China,Pharma,2152600,2030600
+2025-Q1,Informatics,Informatics,China,Industrial,864100,855800
+2025-Q1,Informatics,Informatics,China,Academic & Government,902500,866900
+2025-Q1,Informatics,Informatics,India,Pharma,1209400,1150900
+2025-Q1,Informatics,Informatics,India,Industrial,485500,485100
+2025-Q1,Informatics,Informatics,India,Academic & Government,507100,491400
+2025-Q1,Informatics,Informatics,Other,Pharma,2653700,2643800
+2025-Q1,Informatics,Informatics,Other,Industrial,1065300,1114300
+2025-Q1,Informatics,Informatics,Other,Academic & Government,1112600,1128700
+2025-Q2,LC,Instruments,US,Pharma,9887000,9793400
+2025-Q2,LC,Instruments,US,Industrial,3968700,3942700
+2025-Q2,LC,Instruments,US,Academic & Government,4402500,4219300
+2025-Q2,LC,Instruments,China,Pharma,4615300,4790800
+2025-Q2,LC,Instruments,China,Industrial,1852600,1928700
+2025-Q2,LC,Instruments,China,Academic & Government,2055100,2064000
+2025-Q2,LC,Instruments,India,Pharma,2693100,2648200
+2025-Q2,LC,Instruments,India,Industrial,1081000,1066200
+2025-Q2,LC,Instruments,India,Academic & Government,1199200,1140900
+2025-Q2,LC,Instruments,Other,Pharma,5972600,6066100
+2025-Q2,LC,Instruments,Other,Industrial,2397400,2442200
+2025-Q2,LC,Instruments,Other,Academic & Government,2659500,2613500
+2025-Q2,LC,Chemistry,US,Pharma,8070300,8619400
+2025-Q2,LC,Chemistry,US,Industrial,3139000,3179600
+2025-Q2,LC,Chemistry,US,Academic & Government,3349900,3447300
+2025-Q2,LC,Chemistry,China,Pharma,3921600,3988800
+2025-Q2,LC,Chemistry,China,Industrial,1525300,1471400
+2025-Q2,LC,Chemistry,China,Academic & Government,1627800,1595300
+2025-Q2,LC,Chemistry,India,Pharma,2323200,2416600
+2025-Q2,LC,Chemistry,India,Industrial,903600,891500
+2025-Q2,LC,Chemistry,India,Academic & Government,964300,966500
+2025-Q2,LC,Chemistry,Other,Pharma,5037500,5201500
+2025-Q2,LC,Chemistry,Other,Industrial,1959400,1918800
+2025-Q2,LC,Chemistry,Other,Academic & Government,2091000,2080300
+2025-Q2,LC,Service,US,Pharma,4679000,4526200
+2025-Q2,LC,Service,US,Industrial,1896200,1798700
+2025-Q2,LC,Service,US,Academic & Government,1813700,1765900
+2025-Q2,LC,Service,China,Pharma,2047500,2201200
+2025-Q2,LC,Service,China,Industrial,829800,874700
+2025-Q2,LC,Service,China,Academic & Government,793700,858800
+2025-Q2,LC,Service,India,Pharma,1226100,1293300
+2025-Q2,LC,Service,India,Industrial,496900,513900
+2025-Q2,LC,Service,India,Academic & Government,475300,504600
+2025-Q2,LC,Service,Other,Pharma,2763600,3013500
+2025-Q2,LC,Service,Other,Industrial,1120000,1197500
+2025-Q2,LC,Service,Other,Academic & Government,1071300,1175700
+2025-Q2,Mass Spec,Instruments,US,Pharma,8024800,8225000
+2025-Q2,Mass Spec,Instruments,US,Industrial,3259000,3513900
+2025-Q2,Mass Spec,Instruments,US,Academic & Government,3575800,3623900
+2025-Q2,Mass Spec,Instruments,China,Pharma,3862700,4048900
+2025-Q2,Mass Spec,Instruments,China,Industrial,1568700,1729800
+2025-Q2,Mass Spec,Instruments,China,Academic & Government,1721200,1784000
+2025-Q2,Mass Spec,Instruments,India,Pharma,2457600,2454100
+2025-Q2,Mass Spec,Instruments,India,Industrial,998100,1048500
+2025-Q2,Mass Spec,Instruments,India,Academic & Government,1095100,1081300
+2025-Q2,Mass Spec,Instruments,Other,Pharma,5229800,5204800
+2025-Q2,Mass Spec,Instruments,Other,Industrial,2123900,2223600
+2025-Q2,Mass Spec,Instruments,Other,Academic & Government,2330400,2293200
+2025-Q2,Mass Spec,Chemistry,US,Pharma,4666600,4718000
+2025-Q2,Mass Spec,Chemistry,US,Industrial,1814600,1854400
+2025-Q2,Mass Spec,Chemistry,US,Academic & Government,2075200,2010000
+2025-Q2,Mass Spec,Chemistry,China,Pharma,2301800,2196600
+2025-Q2,Mass Spec,Chemistry,China,Industrial,895000,863300
+2025-Q2,Mass Spec,Chemistry,China,Academic & Government,1023600,935800
+2025-Q2,Mass Spec,Chemistry,India,Pharma,1362800,1346000
+2025-Q2,Mass Spec,Chemistry,India,Industrial,529900,529000
+2025-Q2,Mass Spec,Chemistry,India,Academic & Government,606000,573400
+2025-Q2,Mass Spec,Chemistry,Other,Pharma,2794300,2629100
+2025-Q2,Mass Spec,Chemistry,Other,Industrial,1086500,1033400
+2025-Q2,Mass Spec,Chemistry,Other,Academic & Government,1242600,1120000
+2025-Q2,Mass Spec,Service,US,Pharma,3696700,3742800
+2025-Q2,Mass Spec,Service,US,Industrial,1433100,1445200
+2025-Q2,Mass Spec,Service,US,Academic & Government,1434200,1540800
+2025-Q2,Mass Spec,Service,China,Pharma,1646300,1809800
+2025-Q2,Mass Spec,Service,China,Industrial,638200,698800
+2025-Q2,Mass Spec,Service,China,Academic & Government,638700,745000
+2025-Q2,Mass Spec,Service,India,Pharma,974500,1008100
+2025-Q2,Mass Spec,Service,India,Industrial,377800,389300
+2025-Q2,Mass Spec,Service,India,Academic & Government,378100,415000
+2025-Q2,Mass Spec,Service,Other,Pharma,2314900,2175500
+2025-Q2,Mass Spec,Service,Other,Industrial,897400,840000
+2025-Q2,Mass Spec,Service,Other,Academic & Government,898100,895600
+2025-Q2,Chemicals,Chemistry,US,Pharma,6908000,7237100
+2025-Q2,Chemicals,Chemistry,US,Industrial,2667800,2854600
+2025-Q2,Chemicals,Chemistry,US,Academic & Government,2744500,3041700
+2025-Q2,Chemicals,Chemistry,China,Pharma,3621000,3599700
+2025-Q2,Chemicals,Chemistry,China,Industrial,1398400,1419900
+2025-Q2,Chemicals,Chemistry,China,Academic & Government,1438600,1512900
+2025-Q2,Chemicals,Chemistry,India,Pharma,2070400,1997400
+2025-Q2,Chemicals,Chemistry,India,Industrial,799600,787900
+2025-Q2,Chemicals,Chemistry,India,Academic & Government,822600,839500
+2025-Q2,Chemicals,Chemistry,Other,Pharma,4423900,4253700
+2025-Q2,Chemicals,Chemistry,Other,Industrial,1708500,1677800
+2025-Q2,Chemicals,Chemistry,Other,Academic & Government,1757600,1787800
+2025-Q2,Informatics,Informatics,US,Pharma,4602200,4396800
+2025-Q2,Informatics,Informatics,US,Industrial,1801800,1856100
+2025-Q2,Informatics,Informatics,US,Academic & Government,1802400,1757100
+2025-Q2,Informatics,Informatics,China,Pharma,2071800,2009500
+2025-Q2,Informatics,Informatics,China,Industrial,811100,848300
+2025-Q2,Informatics,Informatics,China,Academic & Government,811400,803100
+2025-Q2,Informatics,Informatics,India,Pharma,1275200,1241400
+2025-Q2,Informatics,Informatics,India,Industrial,499300,524000
+2025-Q2,Informatics,Informatics,India,Academic & Government,499400,496100
+2025-Q2,Informatics,Informatics,Other,Pharma,2656200,2611500
+2025-Q2,Informatics,Informatics,Other,Industrial,1039900,1102400
+2025-Q2,Informatics,Informatics,Other,Academic & Government,1040300,1043600
+2025-Q3,LC,Instruments,US,Pharma,10152800,10068800
+2025-Q3,LC,Instruments,US,Industrial,4033000,3997600
+2025-Q3,LC,Instruments,US,Academic & Government,4065200,4533700
+2025-Q3,LC,Instruments,China,Pharma,4901500,5081800
+2025-Q3,LC,Instruments,China,Industrial,1947000,2017600
+2025-Q3,LC,Instruments,China,Academic & Government,1962500,2288200
+2025-Q3,LC,Instruments,India,Pharma,3004700,3004900
+2025-Q3,LC,Instruments,India,Industrial,1193500,1193000
+2025-Q3,LC,Instruments,India,Academic & Government,1203100,1353000
+2025-Q3,LC,Instruments,Other,Pharma,6735400,6456600
+2025-Q3,LC,Instruments,Other,Industrial,2675500,2563500
+2025-Q3,LC,Instruments,Other,Academic & Government,2696800,2907200
+2025-Q3,LC,Chemistry,US,Pharma,7653000,7624200
+2025-Q3,LC,Chemistry,US,Industrial,2949700,3312800
+2025-Q3,LC,Chemistry,US,Academic & Government,3195100,3467600
+2025-Q3,LC,Chemistry,China,Pharma,3608400,3464600
+2025-Q3,LC,Chemistry,China,Industrial,1390800,1505400
+2025-Q3,LC,Chemistry,China,Academic & Government,1506500,1575800
+2025-Q3,LC,Chemistry,India,Pharma,2372000,2068600
+2025-Q3,LC,Chemistry,India,Industrial,914200,898800
+2025-Q3,LC,Chemistry,India,Academic & Government,990300,940800
+2025-Q3,LC,Chemistry,Other,Pharma,5156600,4510200
+2025-Q3,LC,Chemistry,Other,Industrial,1987500,1959700
+2025-Q3,LC,Chemistry,Other,Academic & Government,2152900,2051300
+2025-Q3,LC,Service,US,Pharma,4378200,4358800
+2025-Q3,LC,Service,US,Industrial,1817500,1706000
+2025-Q3,LC,Service,US,Academic & Government,1786200,1853200
+2025-Q3,LC,Service,China,Pharma,2271000,2176400
+2025-Q3,LC,Service,China,Industrial,942800,851800
+2025-Q3,LC,Service,China,Academic & Government,926500,925400
+2025-Q3,LC,Service,India,Pharma,1261000,1320600
+2025-Q3,LC,Service,India,Industrial,523500,516900
+2025-Q3,LC,Service,India,Academic & Government,514500,561500
+2025-Q3,LC,Service,Other,Pharma,2748000,2871100
+2025-Q3,LC,Service,Other,Industrial,1140700,1123700
+2025-Q3,LC,Service,Other,Academic & Government,1121100,1220700
+2025-Q3,Mass Spec,Instruments,US,Pharma,8613100,8460700
+2025-Q3,Mass Spec,Instruments,US,Industrial,3118900,3145000
+2025-Q3,Mass Spec,Instruments,US,Academic & Government,3495400,3618300
+2025-Q3,Mass Spec,Instruments,China,Pharma,4074000,4105800
+2025-Q3,Mass Spec,Instruments,China,Industrial,1475200,1526200
+2025-Q3,Mass Spec,Instruments,China,Academic & Government,1653300,1755900
+2025-Q3,Mass Spec,Instruments,India,Pharma,2509100,2325000
+2025-Q3,Mass Spec,Instruments,India,Industrial,908600,864200
+2025-Q3,Mass Spec,Instruments,India,Academic & Government,1018300,994300
+2025-Q3,Mass Spec,Instruments,Other,Pharma,5377500,4998800
+2025-Q3,Mass Spec,Instruments,Other,Industrial,1947300,1858100
+2025-Q3,Mass Spec,Instruments,Other,Academic & Government,2182300,2137800
+2025-Q3,Mass Spec,Chemistry,US,Pharma,4767400,4807100
+2025-Q3,Mass Spec,Chemistry,US,Industrial,1853600,1925200
+2025-Q3,Mass Spec,Chemistry,US,Academic & Government,2008900,1903300
+2025-Q3,Mass Spec,Chemistry,China,Pharma,2298800,2283800
+2025-Q3,Mass Spec,Chemistry,China,Industrial,893800,914600
+2025-Q3,Mass Spec,Chemistry,China,Academic & Government,968700,904200
+2025-Q3,Mass Spec,Chemistry,India,Pharma,1391900,1424600
+2025-Q3,Mass Spec,Chemistry,India,Industrial,541200,570500
+2025-Q3,Mass Spec,Chemistry,India,Academic & Government,586500,564100
+2025-Q3,Mass Spec,Chemistry,Other,Pharma,2781000,3075900
+2025-Q3,Mass Spec,Chemistry,Other,Industrial,1081300,1231800
+2025-Q3,Mass Spec,Chemistry,Other,Academic & Government,1171900,1217900
+2025-Q3,Mass Spec,Service,US,Pharma,3669500,3672000
+2025-Q3,Mass Spec,Service,US,Industrial,1382100,1426800
+2025-Q3,Mass Spec,Service,US,Academic & Government,1591400,1497400
+2025-Q3,Mass Spec,Service,China,Pharma,1797300,1763000
+2025-Q3,Mass Spec,Service,China,Industrial,676900,685000
+2025-Q3,Mass Spec,Service,China,Academic & Government,779500,719000
+2025-Q3,Mass Spec,Service,India,Pharma,1044700,1057600
+2025-Q3,Mass Spec,Service,India,Industrial,393500,411000
+2025-Q3,Mass Spec,Service,India,Academic & Government,453100,431300
+2025-Q3,Mass Spec,Service,Other,Pharma,2472000,2306200
+2025-Q3,Mass Spec,Service,Other,Industrial,931100,896100
+2025-Q3,Mass Spec,Service,Other,Academic & Government,1072000,940500
+2025-Q3,Chemicals,Chemistry,US,Pharma,7335000,6901200
+2025-Q3,Chemicals,Chemistry,US,Industrial,2894800,2787500
+2025-Q3,Chemicals,Chemistry,US,Academic & Government,3061900,2863400
+2025-Q3,Chemicals,Chemistry,China,Pharma,3295400,3085100
+2025-Q3,Chemicals,Chemistry,China,Industrial,1300500,1246100
+2025-Q3,Chemicals,Chemistry,China,Academic & Government,1375600,1280000
+2025-Q3,Chemicals,Chemistry,India,Pharma,1933800,1974200
+2025-Q3,Chemicals,Chemistry,India,Industrial,763200,797400
+2025-Q3,Chemicals,Chemistry,India,Academic & Government,807200,819100
+2025-Q3,Chemicals,Chemistry,Other,Pharma,4291100,4395100
+2025-Q3,Chemicals,Chemistry,Other,Industrial,1693500,1775200
+2025-Q3,Chemicals,Chemistry,Other,Academic & Government,1791200,1823600
+2025-Q3,Informatics,Informatics,US,Pharma,4401200,4448900
+2025-Q3,Informatics,Informatics,US,Industrial,1764700,1829000
+2025-Q3,Informatics,Informatics,US,Academic & Government,1841300,1900200
+2025-Q3,Informatics,Informatics,China,Pharma,2123800,1978500
+2025-Q3,Informatics,Informatics,China,Industrial,851500,813400
+2025-Q3,Informatics,Informatics,China,Academic & Government,888500,845100
+2025-Q3,Informatics,Informatics,India,Pharma,1351400,1194400
+2025-Q3,Informatics,Informatics,India,Industrial,541800,491000
+2025-Q3,Informatics,Informatics,India,Academic & Government,565400,510200
+2025-Q3,Informatics,Informatics,Other,Pharma,2778200,2656000
+2025-Q3,Informatics,Informatics,Other,Industrial,1113900,1091900
+2025-Q3,Informatics,Informatics,Other,Academic & Government,1162300,1134500
+2025-Q4,LC,Instruments,US,Pharma,10400500,10437300
+2025-Q4,LC,Instruments,US,Industrial,4540800,3956800
+2025-Q4,LC,Instruments,US,Academic & Government,4349800,4334900
+2025-Q4,LC,Instruments,China,Pharma,4929100,5055300
+2025-Q4,LC,Instruments,China,Industrial,2152000,1916400
+2025-Q4,LC,Instruments,China,Academic & Government,2061500,2099600
+2025-Q4,LC,Instruments,India,Pharma,2647600,2854400
+2025-Q4,LC,Instruments,India,Industrial,1155900,1082100
+2025-Q4,LC,Instruments,India,Academic & Government,1107300,1185500
+2025-Q4,LC,Instruments,Other,Pharma,6059100,6049600
+2025-Q4,LC,Instruments,Other,Industrial,2645300,2293400
+2025-Q4,LC,Instruments,Other,Academic & Government,2534100,2512600
+2025-Q4,LC,Chemistry,US,Pharma,7390100,8281900
+2025-Q4,LC,Chemistry,US,Industrial,2948100,3253200
+2025-Q4,LC,Chemistry,US,Academic & Government,3274000,3333700
+2025-Q4,LC,Chemistry,China,Pharma,3822900,3725700
+2025-Q4,LC,Chemistry,China,Industrial,1525000,1463500
+2025-Q4,LC,Chemistry,China,Academic & Government,1693600,1499700
+2025-Q4,LC,Chemistry,India,Pharma,2211200,2420100
+2025-Q4,LC,Chemistry,India,Industrial,882100,950700
+2025-Q4,LC,Chemistry,India,Academic & Government,979600,974200
+2025-Q4,LC,Chemistry,Other,Pharma,5008000,4996400
+2025-Q4,LC,Chemistry,Other,Industrial,1997800,1962700
+2025-Q4,LC,Chemistry,Other,Academic & Government,2218700,2011200
+2025-Q4,LC,Service,US,Pharma,4732200,4641100
+2025-Q4,LC,Service,US,Industrial,1760300,1993200
+2025-Q4,LC,Service,US,Academic & Government,1859000,1987100
+2025-Q4,LC,Service,China,Pharma,2398400,2026800
+2025-Q4,LC,Service,China,Industrial,892200,870400
+2025-Q4,LC,Service,China,Academic & Government,942200,867800
+2025-Q4,LC,Service,India,Pharma,1299900,1339400
+2025-Q4,LC,Service,India,Industrial,483500,575200
+2025-Q4,LC,Service,India,Academic & Government,510700,573500
+2025-Q4,LC,Service,Other,Pharma,3085700,2831300
+2025-Q4,LC,Service,Other,Industrial,1147800,1215900
+2025-Q4,LC,Service,Other,Academic & Government,1212200,1212200
+2025-Q4,Mass Spec,Instruments,US,Pharma,7914300,8311700
+2025-Q4,Mass Spec,Instruments,US,Industrial,3390500,3255000
+2025-Q4,Mass Spec,Instruments,US,Academic & Government,3515700,3516600
+2025-Q4,Mass Spec,Instruments,China,Pharma,4116800,3966000
+2025-Q4,Mass Spec,Instruments,China,Industrial,1763700,1553200
+2025-Q4,Mass Spec,Instruments,China,Academic & Government,1828800,1678000
+2025-Q4,Mass Spec,Instruments,India,Pharma,2313600,2451600
+2025-Q4,Mass Spec,Instruments,India,Industrial,991200,960100
+2025-Q4,Mass Spec,Instruments,India,Academic & Government,1027800,1037300
+2025-Q4,Mass Spec,Instruments,Other,Pharma,5414200,5107500
+2025-Q4,Mass Spec,Instruments,Other,Industrial,2319500,2000200
+2025-Q4,Mass Spec,Instruments,Other,Academic & Government,2405100,2160900
+2025-Q4,Mass Spec,Chemistry,US,Pharma,4668500,4949600
+2025-Q4,Mass Spec,Chemistry,US,Industrial,2075400,1949200
+2025-Q4,Mass Spec,Chemistry,US,Academic & Government,1971700,2026400
+2025-Q4,Mass Spec,Chemistry,China,Pharma,2268300,2442800
+2025-Q4,Mass Spec,Chemistry,China,Industrial,1008300,962000
+2025-Q4,Mass Spec,Chemistry,China,Academic & Government,958000,1000100
+2025-Q4,Mass Spec,Chemistry,India,Pharma,1254300,1447200
+2025-Q4,Mass Spec,Chemistry,India,Industrial,557600,569900
+2025-Q4,Mass Spec,Chemistry,India,Academic & Government,529800,592500
+2025-Q4,Mass Spec,Chemistry,Other,Pharma,2953200,3003100
+2025-Q4,Mass Spec,Chemistry,Other,Industrial,1312800,1182700
+2025-Q4,Mass Spec,Chemistry,Other,Academic & Government,1247200,1229500
+2025-Q4,Mass Spec,Service,US,Pharma,3795500,3726600
+2025-Q4,Mass Spec,Service,US,Industrial,1650000,1617700
+2025-Q4,Mass Spec,Service,US,Academic & Government,1644300,1708700
+2025-Q4,Mass Spec,Service,China,Pharma,1660500,1740100
+2025-Q4,Mass Spec,Service,China,Industrial,721900,755400
+2025-Q4,Mass Spec,Service,China,Academic & Government,719400,797800
+2025-Q4,Mass Spec,Service,India,Pharma,1045000,1015300
+2025-Q4,Mass Spec,Service,India,Industrial,454300,440700
+2025-Q4,Mass Spec,Service,India,Academic & Government,452700,465500
+2025-Q4,Mass Spec,Service,Other,Pharma,2169500,2198200
+2025-Q4,Mass Spec,Service,Other,Industrial,943100,954200
+2025-Q4,Mass Spec,Service,Other,Academic & Government,939900,1007900
+2025-Q4,Chemicals,Chemistry,US,Pharma,7251300,6420800
+2025-Q4,Chemicals,Chemistry,US,Industrial,2786700,2523000
+2025-Q4,Chemicals,Chemistry,US,Academic & Government,2913700,2625300
+2025-Q4,Chemicals,Chemistry,China,Pharma,3409200,3064800
+2025-Q4,Chemicals,Chemistry,China,Industrial,1310200,1204300
+2025-Q4,Chemicals,Chemistry,China,Academic & Government,1369900,1253100
+2025-Q4,Chemicals,Chemistry,India,Pharma,2110400,1909600
+2025-Q4,Chemicals,Chemistry,India,Industrial,811000,750400
+2025-Q4,Chemicals,Chemistry,India,Academic & Government,848000,780800
+2025-Q4,Chemicals,Chemistry,Other,Pharma,4432200,4293900
+2025-Q4,Chemicals,Chemistry,Other,Industrial,1703300,1687300
+2025-Q4,Chemicals,Chemistry,Other,Academic & Government,1781000,1755700
+2025-Q4,Informatics,Informatics,US,Pharma,4680200,4826900
+2025-Q4,Informatics,Informatics,US,Industrial,1882600,1936200
+2025-Q4,Informatics,Informatics,US,Academic & Government,2088900,1826300
+2025-Q4,Informatics,Informatics,China,Pharma,2015500,2127600
+2025-Q4,Informatics,Informatics,China,Industrial,810700,853400
+2025-Q4,Informatics,Informatics,China,Academic & Government,899600,805000
+2025-Q4,Informatics,Informatics,India,Pharma,1266700,1285300
+2025-Q4,Informatics,Informatics,India,Industrial,509500,515500
+2025-Q4,Informatics,Informatics,India,Academic & Government,565300,486300
+2025-Q4,Informatics,Informatics,Other,Pharma,2786000,2777000
+2025-Q4,Informatics,Informatics,Other,Industrial,1120600,1113900
+2025-Q4,Informatics,Informatics,Other,Academic & Government,1243500,1050700
+2026-Q1,LC,Instruments,US,Pharma,10053500,10177400
+2026-Q1,LC,Instruments,US,Industrial,4044400,4195000
+2026-Q1,LC,Instruments,US,Academic & Government,4423000,4275800
+2026-Q1,LC,Instruments,China,Pharma,4453700,4863100
+2026-Q1,LC,Instruments,China,Industrial,1791600,2004500
+2026-Q1,LC,Instruments,China,Academic & Government,1959400,2043100
+2026-Q1,LC,Instruments,India,Pharma,2805700,2957100
+2026-Q1,LC,Instruments,India,Industrial,1128700,1218900
+2026-Q1,LC,Instruments,India,Academic & Government,1234300,1242400
+2026-Q1,LC,Instruments,Other,Pharma,6474600,5880400
+2026-Q1,LC,Instruments,Other,Industrial,2604600,2423800
+2026-Q1,LC,Instruments,Other,Academic & Government,2848500,2470500
+2026-Q1,LC,Chemistry,US,Pharma,8527300,8508200
+2026-Q1,LC,Chemistry,US,Industrial,3337200,3428300
+2026-Q1,LC,Chemistry,US,Academic & Government,3543200,3337800
+2026-Q1,LC,Chemistry,China,Pharma,3915400,3793000
+2026-Q1,LC,Chemistry,China,Industrial,1532300,1528400
+2026-Q1,LC,Chemistry,China,Academic & Government,1626900,1488000
+2026-Q1,LC,Chemistry,India,Pharma,2375900,2469800
+2026-Q1,LC,Chemistry,India,Industrial,929800,995200
+2026-Q1,LC,Chemistry,India,Academic & Government,987200,968900
+2026-Q1,LC,Chemistry,Other,Pharma,4833600,5183400
+2026-Q1,LC,Chemistry,Other,Industrial,1891600,2088600
+2026-Q1,LC,Chemistry,Other,Academic & Government,2008400,2033400
+2026-Q1,LC,Service,US,Pharma,4834000,4784200
+2026-Q1,LC,Service,US,Industrial,1864500,1858300
+2026-Q1,LC,Service,US,Academic & Government,2004200,1945700
+2026-Q1,LC,Service,China,Pharma,2318000,2118700
+2026-Q1,LC,Service,China,Industrial,894000,822900
+2026-Q1,LC,Service,China,Academic & Government,961100,861600
+2026-Q1,LC,Service,India,Pharma,1358600,1318400
+2026-Q1,LC,Service,India,Industrial,524000,512100
+2026-Q1,LC,Service,India,Academic & Government,563300,536200
+2026-Q1,LC,Service,Other,Pharma,2884700,2912300
+2026-Q1,LC,Service,Other,Industrial,1112600,1131200
+2026-Q1,LC,Service,Other,Academic & Government,1196000,1184400
+2026-Q1,Mass Spec,Instruments,US,Pharma,8712500,8426400
+2026-Q1,Mass Spec,Instruments,US,Industrial,3520200,3622000
+2026-Q1,Mass Spec,Instruments,US,Academic & Government,3797000,3761200
+2026-Q1,Mass Spec,Instruments,China,Pharma,4236500,4134300
+2026-Q1,Mass Spec,Instruments,China,Industrial,1711700,1777000
+2026-Q1,Mass Spec,Instruments,China,Academic & Government,1846300,1845400
+2026-Q1,Mass Spec,Instruments,India,Pharma,2465900,2282800
+2026-Q1,Mass Spec,Instruments,India,Industrial,996300,981200
+2026-Q1,Mass Spec,Instruments,India,Academic & Government,1074700,1018900
+2026-Q1,Mass Spec,Instruments,Other,Pharma,5237400,4827800
+2026-Q1,Mass Spec,Instruments,Other,Industrial,2116100,2075100
+2026-Q1,Mass Spec,Instruments,Other,Academic & Government,2282500,2154900
+2026-Q1,Mass Spec,Chemistry,US,Pharma,4804600,4712400
+2026-Q1,Mass Spec,Chemistry,US,Industrial,1822000,1930300
+2026-Q1,Mass Spec,Chemistry,US,Academic & Government,1834300,2078700
+2026-Q1,Mass Spec,Chemistry,China,Pharma,2505500,2241400
+2026-Q1,Mass Spec,Chemistry,China,Industrial,950200,918100
+2026-Q1,Mass Spec,Chemistry,China,Academic & Government,956600,988700
+2026-Q1,Mass Spec,Chemistry,India,Pharma,1390900,1434800
+2026-Q1,Mass Spec,Chemistry,India,Industrial,527500,587700
+2026-Q1,Mass Spec,Chemistry,India,Academic & Government,531000,632900
+2026-Q1,Mass Spec,Chemistry,Other,Pharma,3201700,2940400
+2026-Q1,Mass Spec,Chemistry,Other,Industrial,1214200,1204400
+2026-Q1,Mass Spec,Chemistry,Other,Academic & Government,1222400,1297100
+2026-Q1,Mass Spec,Service,US,Pharma,3609100,3870600
+2026-Q1,Mass Spec,Service,US,Industrial,1441200,1536700
+2026-Q1,Mass Spec,Service,US,Academic & Government,1480600,1496100
+2026-Q1,Mass Spec,Service,China,Pharma,1771800,1822300
+2026-Q1,Mass Spec,Service,China,Industrial,707500,723500
+2026-Q1,Mass Spec,Service,China,Academic & Government,726900,704400
+2026-Q1,Mass Spec,Service,India,Pharma,1039800,1094500
+2026-Q1,Mass Spec,Service,India,Industrial,415200,434500
+2026-Q1,Mass Spec,Service,India,Academic & Government,426600,423100
+2026-Q1,Mass Spec,Service,Other,Pharma,2465900,2471600
+2026-Q1,Mass Spec,Service,Other,Industrial,984700,981300
+2026-Q1,Mass Spec,Service,Other,Academic & Government,1011700,955400
+2026-Q1,Chemicals,Chemistry,US,Pharma,7201300,7258300
+2026-Q1,Chemicals,Chemistry,US,Industrial,2906000,3210000
+2026-Q1,Chemicals,Chemistry,US,Academic & Government,3262300,3067200
+2026-Q1,Chemicals,Chemistry,China,Pharma,3143700,3438600
+2026-Q1,Chemicals,Chemistry,China,Industrial,1268600,1520700
+2026-Q1,Chemicals,Chemistry,China,Academic & Government,1424100,1453100
+2026-Q1,Chemicals,Chemistry,India,Pharma,2037900,2022100
+2026-Q1,Chemicals,Chemistry,India,Industrial,822400,894300
+2026-Q1,Chemicals,Chemistry,India,Academic & Government,923200,854500
+2026-Q1,Chemicals,Chemistry,Other,Pharma,4266900,4290100
+2026-Q1,Chemicals,Chemistry,Other,Industrial,1721800,1897300
+2026-Q1,Chemicals,Chemistry,Other,Academic & Government,1933000,1812900
+2026-Q1,Informatics,Informatics,US,Pharma,5024800,5472700
+2026-Q1,Informatics,Informatics,US,Industrial,1810400,2177700
+2026-Q1,Informatics,Informatics,US,Academic & Government,1984300,2084500
+2026-Q1,Informatics,Informatics,China,Pharma,2285100,2779700
+2026-Q1,Informatics,Informatics,China,Industrial,823300,1106100
+2026-Q1,Informatics,Informatics,China,Academic & Government,902400,1058700
+2026-Q1,Informatics,Informatics,India,Pharma,1307500,1529400
+2026-Q1,Informatics,Informatics,India,Industrial,471100,608600
+2026-Q1,Informatics,Informatics,India,Academic & Government,516300,582500
+2026-Q1,Informatics,Informatics,Other,Pharma,2985400,3384400
+2026-Q1,Informatics,Informatics,Other,Industrial,1075600,1346700
+2026-Q1,Informatics,Informatics,Other,Academic & Government,1178900,1289000
+2026-Q2,LC,Instruments,US,Pharma,10643700,10458400
+2026-Q2,LC,Instruments,US,Industrial,4236100,4261700
+2026-Q2,LC,Instruments,US,Academic & Government,4280200,4311600
+2026-Q2,LC,Instruments,China,Pharma,5157800,4787200
+2026-Q2,LC,Instruments,China,Industrial,2052800,1950700
+2026-Q2,LC,Instruments,China,Academic & Government,2074100,1973600
+2026-Q2,LC,Instruments,India,Pharma,2896400,2751700
+2026-Q2,LC,Instruments,India,Industrial,1152700,1121300
+2026-Q2,LC,Instruments,India,Academic & Government,1164700,1134400
+2026-Q2,LC,Instruments,Other,Pharma,6224200,6296700
+2026-Q2,LC,Instruments,Other,Industrial,2477200,2565800
+2026-Q2,LC,Instruments,Other,Academic & Government,2503000,2595900
+2026-Q2,LC,Chemistry,US,Pharma,7718300,8626000
+2026-Q2,LC,Chemistry,US,Industrial,3248500,3424800
+2026-Q2,LC,Chemistry,US,Academic & Government,3107300,3615700
+2026-Q2,LC,Chemistry,China,Pharma,3773400,3842400
+2026-Q2,LC,Chemistry,China,Industrial,1588100,1525500
+2026-Q2,LC,Chemistry,China,Academic & Government,1519100,1610600
+2026-Q2,LC,Chemistry,India,Pharma,2331800,2267400
+2026-Q2,LC,Chemistry,India,Industrial,981400,900200
+2026-Q2,LC,Chemistry,India,Academic & Government,938700,950400
+2026-Q2,LC,Chemistry,Other,Pharma,5345000,5021500
+2026-Q2,LC,Chemistry,Other,Industrial,2249600,1993700
+2026-Q2,LC,Chemistry,Other,Academic & Government,2151800,2104800
+2026-Q2,LC,Service,US,Pharma,5003100,5036300
+2026-Q2,LC,Service,US,Industrial,1956000,1960000
+2026-Q2,LC,Service,US,Academic & Government,2037000,2213500
+2026-Q2,LC,Service,China,Pharma,2303600,2202500
+2026-Q2,LC,Service,China,Industrial,900600,857200
+2026-Q2,LC,Service,China,Academic & Government,937900,968000
+2026-Q2,LC,Service,India,Pharma,1380700,1341200
+2026-Q2,LC,Service,India,Industrial,539800,522000
+2026-Q2,LC,Service,India,Academic & Government,562100,589500
+2026-Q2,LC,Service,Other,Pharma,3007100,3107100
+2026-Q2,LC,Service,Other,Industrial,1175700,1209200
+2026-Q2,LC,Service,Other,Academic & Government,1224300,1365600
+2026-Q2,Mass Spec,Instruments,US,Pharma,8576100,7580700
+2026-Q2,Mass Spec,Instruments,US,Industrial,3470000,3306600
+2026-Q2,Mass Spec,Instruments,US,Academic & Government,3551400,3238900
+2026-Q2,Mass Spec,Instruments,China,Pharma,4290900,3691600
+2026-Q2,Mass Spec,Instruments,China,Industrial,1736200,1610200
+2026-Q2,Mass Spec,Instruments,China,Academic & Government,1776900,1577200
+2026-Q2,Mass Spec,Instruments,India,Pharma,2639800,2269600
+2026-Q2,Mass Spec,Instruments,India,Industrial,1068100,990000
+2026-Q2,Mass Spec,Instruments,India,Academic & Government,1093200,969700
+2026-Q2,Mass Spec,Instruments,Other,Pharma,5543700,4948700
+2026-Q2,Mass Spec,Instruments,Other,Industrial,2243100,2158600
+2026-Q2,Mass Spec,Instruments,Other,Academic & Government,2295700,2114400
+2026-Q2,Mass Spec,Chemistry,US,Pharma,4870500,4909900
+2026-Q2,Mass Spec,Chemistry,US,Industrial,1964800,1899000
+2026-Q2,Mass Spec,Chemistry,US,Academic & Government,2203000,2127300
+2026-Q2,Mass Spec,Chemistry,China,Pharma,2422500,2311400
+2026-Q2,Mass Spec,Chemistry,China,Industrial,977300,894000
+2026-Q2,Mass Spec,Chemistry,China,Academic & Government,1095700,1001500
+2026-Q2,Mass Spec,Chemistry,India,Pharma,1362100,1513700
+2026-Q2,Mass Spec,Chemistry,India,Industrial,549500,585500
+2026-Q2,Mass Spec,Chemistry,India,Academic & Government,616100,655900
+2026-Q2,Mass Spec,Chemistry,Other,Pharma,2968900,3164700
+2026-Q2,Mass Spec,Chemistry,Other,Industrial,1197700,1224000
+2026-Q2,Mass Spec,Chemistry,Other,Academic & Government,1342900,1371200
+2026-Q2,Mass Spec,Service,US,Pharma,3774400,3871700
+2026-Q2,Mass Spec,Service,US,Industrial,1523100,1612500
+2026-Q2,Mass Spec,Service,US,Academic & Government,1747800,1578500
+2026-Q2,Mass Spec,Service,China,Pharma,1616300,1859400
+2026-Q2,Mass Spec,Service,China,Industrial,652300,774400
+2026-Q2,Mass Spec,Service,China,Academic & Government,748500,758100
+2026-Q2,Mass Spec,Service,India,Pharma,1015300,1004200
+2026-Q2,Mass Spec,Service,India,Industrial,409700,418200
+2026-Q2,Mass Spec,Service,India,Academic & Government,470200,409400
+2026-Q2,Mass Spec,Service,Other,Pharma,2291000,2245700
+2026-Q2,Mass Spec,Service,Other,Industrial,924500,935300
+2026-Q2,Mass Spec,Service,Other,Academic & Government,1060900,915600
+2026-Q2,Chemicals,Chemistry,US,Pharma,7021000,7316100
+2026-Q2,Chemicals,Chemistry,US,Industrial,2830400,2944600
+2026-Q2,Chemicals,Chemistry,US,Academic & Government,2977800,2915800
+2026-Q2,Chemicals,Chemistry,China,Pharma,3557200,3493700
+2026-Q2,Chemicals,Chemistry,China,Industrial,1434100,1406100
+2026-Q2,Chemicals,Chemistry,China,Academic & Government,1508700,1392400
+2026-Q2,Chemicals,Chemistry,India,Pharma,2176000,1996400
+2026-Q2,Chemicals,Chemistry,India,Industrial,877200,803500
+2026-Q2,Chemicals,Chemistry,India,Academic & Government,922900,795700
+2026-Q2,Chemicals,Chemistry,Other,Pharma,4263500,4406800
+2026-Q2,Chemicals,Chemistry,Other,Industrial,1718800,1773600
+2026-Q2,Chemicals,Chemistry,Other,Academic & Government,1808300,1756300
+2026-Q2,Informatics,Informatics,US,Pharma,4923500,4859400
+2026-Q2,Informatics,Informatics,US,Industrial,2006500,1961600
+2026-Q2,Informatics,Informatics,US,Academic & Government,2120000,2187100
+2026-Q2,Informatics,Informatics,China,Pharma,2208700,2247700
+2026-Q2,Informatics,Informatics,China,Industrial,900100,907300
+2026-Q2,Informatics,Informatics,China,Academic & Government,951000,1011600
+2026-Q2,Informatics,Informatics,India,Pharma,1346200,1270600
+2026-Q2,Informatics,Informatics,India,Industrial,548600,512900
+2026-Q2,Informatics,Informatics,India,Academic & Government,579600,571900
+2026-Q2,Informatics,Informatics,Other,Pharma,2877800,2766300
+2026-Q2,Informatics,Informatics,Other,Industrial,1172800,1116600
+2026-Q2,Informatics,Informatics,Other,Academic & Government,1239100,1245000
+2026-Q3,LC,Instruments,US,Pharma,10879100,11345000
+2026-Q3,LC,Instruments,US,Industrial,4085100,4289700
+2026-Q3,LC,Instruments,US,Academic & Government,4165700,4700100
+2026-Q3,LC,Instruments,China,Pharma,5342200,5484600
+2026-Q3,LC,Instruments,China,Industrial,2006000,2073800
+2026-Q3,LC,Instruments,China,Academic & Government,2045600,2272200
+2026-Q3,LC,Instruments,India,Pharma,3125400,3054900
+2026-Q3,LC,Instruments,India,Industrial,1173600,1155100
+2026-Q3,LC,Instruments,India,Academic & Government,1196700,1265600
+2026-Q3,LC,Instruments,Other,Pharma,6820700,6484500
+2026-Q3,LC,Instruments,Other,Industrial,2561200,2451900
+2026-Q3,LC,Instruments,Other,Academic & Government,2611700,2686500
+2026-Q3,LC,Chemistry,US,Pharma,8679500,8632200
+2026-Q3,LC,Chemistry,US,Industrial,3368600,3512400
+2026-Q3,LC,Chemistry,US,Academic & Government,3579100,3779600
+2026-Q3,LC,Chemistry,China,Pharma,3933000,4154300
+2026-Q3,LC,Chemistry,China,Industrial,1526400,1690300
+2026-Q3,LC,Chemistry,China,Academic & Government,1621800,1818900
+2026-Q3,LC,Chemistry,India,Pharma,2274900,2571700
+2026-Q3,LC,Chemistry,India,Industrial,882900,1046400
+2026-Q3,LC,Chemistry,India,Academic & Government,938100,1126000
+2026-Q3,LC,Chemistry,Other,Pharma,4838000,5049000
+2026-Q3,LC,Chemistry,Other,Industrial,1877700,2054400
+2026-Q3,LC,Chemistry,Other,Academic & Government,1995000,2210700
+2026-Q3,LC,Service,US,Pharma,4474800,4561100
+2026-Q3,LC,Service,US,Industrial,1697500,1939000
+2026-Q3,LC,Service,US,Academic & Government,1971100,1961300
+2026-Q3,LC,Service,China,Pharma,2233300,2152800
+2026-Q3,LC,Service,China,Industrial,847200,915200
+2026-Q3,LC,Service,China,Academic & Government,983700,925700
+2026-Q3,LC,Service,India,Pharma,1390600,1424200
+2026-Q3,LC,Service,India,Industrial,527500,605500
+2026-Q3,LC,Service,India,Academic & Government,612500,612400
+2026-Q3,LC,Service,Other,Pharma,3069400,3097200
+2026-Q3,LC,Service,Other,Industrial,1164400,1316700
+2026-Q3,LC,Service,Other,Academic & Government,1352000,1331800
+2026-Q3,Mass Spec,Instruments,US,Pharma,8743900,9013000
+2026-Q3,Mass Spec,Instruments,US,Industrial,3552100,3251600
+2026-Q3,Mass Spec,Instruments,US,Academic & Government,3933100,3624500
+2026-Q3,Mass Spec,Instruments,China,Pharma,4387100,4388700
+2026-Q3,Mass Spec,Instruments,China,Industrial,1782200,1583300
+2026-Q3,Mass Spec,Instruments,China,Academic & Government,1973400,1764900
+2026-Q3,Mass Spec,Instruments,India,Pharma,2627000,2671000
+2026-Q3,Mass Spec,Instruments,India,Industrial,1067200,963600
+2026-Q3,Mass Spec,Instruments,India,Academic & Government,1181700,1074100
+2026-Q3,Mass Spec,Instruments,Other,Pharma,5267300,5694100
+2026-Q3,Mass Spec,Instruments,Other,Industrial,2139800,2054300
+2026-Q3,Mass Spec,Instruments,Other,Academic & Government,2369300,2289800
+2026-Q3,Mass Spec,Chemistry,US,Pharma,4673300,5013900
+2026-Q3,Mass Spec,Chemistry,US,Industrial,1834500,2003500
+2026-Q3,Mass Spec,Chemistry,US,Academic & Government,1972000,1989500
+2026-Q3,Mass Spec,Chemistry,China,Pharma,2451500,2409500
+2026-Q3,Mass Spec,Chemistry,China,Industrial,962300,962800
+2026-Q3,Mass Spec,Chemistry,China,Academic & Government,1034500,956100
+2026-Q3,Mass Spec,Chemistry,India,Pharma,1348700,1390900
+2026-Q3,Mass Spec,Chemistry,India,Industrial,529400,555800
+2026-Q3,Mass Spec,Chemistry,India,Academic & Government,569100,551900
+2026-Q3,Mass Spec,Chemistry,Other,Pharma,3099300,3055700
+2026-Q3,Mass Spec,Chemistry,Other,Industrial,1216600,1221000
+2026-Q3,Mass Spec,Chemistry,Other,Academic & Government,1307800,1212500
+2026-Q3,Mass Spec,Service,US,Pharma,3901900,4095000
+2026-Q3,Mass Spec,Service,US,Industrial,1620000,1651500
+2026-Q3,Mass Spec,Service,US,Academic & Government,1624200,1629400
+2026-Q3,Mass Spec,Service,China,Pharma,1801300,1884400
+2026-Q3,Mass Spec,Service,China,Industrial,747900,760000
+2026-Q3,Mass Spec,Service,China,Academic & Government,749800,749800
+2026-Q3,Mass Spec,Service,India,Pharma,1151500,1172100
+2026-Q3,Mass Spec,Service,India,Industrial,478100,472700
+2026-Q3,Mass Spec,Service,India,Academic & Government,479300,466400
+2026-Q3,Mass Spec,Service,Other,Pharma,2499700,2427600
+2026-Q3,Mass Spec,Service,Other,Industrial,1037800,979000
+2026-Q3,Mass Spec,Service,Other,Academic & Government,1040500,966000
+2026-Q3,Chemicals,Chemistry,US,Pharma,7392600,7184200
+2026-Q3,Chemicals,Chemistry,US,Industrial,3004400,2667200
+2026-Q3,Chemicals,Chemistry,US,Academic & Government,3047000,3062200
+2026-Q3,Chemicals,Chemistry,China,Pharma,3538400,3369300
+2026-Q3,Chemicals,Chemistry,China,Industrial,1438000,1250900
+2026-Q3,Chemicals,Chemistry,China,Academic & Government,1458400,1436200
+2026-Q3,Chemicals,Chemistry,India,Pharma,2057400,2162700
+2026-Q3,Chemicals,Chemistry,India,Industrial,836100,802900
+2026-Q3,Chemicals,Chemistry,India,Academic & Government,848000,921800
+2026-Q3,Chemicals,Chemistry,Other,Pharma,4213500,4251200
+2026-Q3,Chemicals,Chemistry,Other,Industrial,1712400,1578300
+2026-Q3,Chemicals,Chemistry,Other,Academic & Government,1736700,1812000
+2026-Q3,Informatics,Informatics,US,Pharma,5126800,4818900
+2026-Q3,Informatics,Informatics,US,Industrial,1904700,2014200
+2026-Q3,Informatics,Informatics,US,Academic & Government,2124100,2211300
+2026-Q3,Informatics,Informatics,China,Pharma,2231800,2377600
+2026-Q3,Informatics,Informatics,China,Industrial,829200,993800
+2026-Q3,Informatics,Informatics,China,Academic & Government,924600,1091000
+2026-Q3,Informatics,Informatics,India,Pharma,1443400,1497200
+2026-Q3,Informatics,Informatics,India,Industrial,536300,625800
+2026-Q3,Informatics,Informatics,India,Academic & Government,598000,687000
+2026-Q3,Informatics,Informatics,Other,Pharma,3179000,3018300
+2026-Q3,Informatics,Informatics,Other,Industrial,1181100,1261600
+2026-Q3,Informatics,Informatics,Other,Academic & Government,1317100,1385100

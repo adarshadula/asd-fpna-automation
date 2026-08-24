@@ -1,0 +1,129 @@
+week,product,stage,pipeline_value,deal_count
+1,LC,Prospecting,18083000,21
+1,LC,Qualified,13689000,10
+1,LC,Proposal,8777000,5
+1,LC,Committed,6288000,3
+1,Mass Spec,Prospecting,14927000,9
+1,Mass Spec,Qualified,11151000,7
+1,Mass Spec,Proposal,6721000,8
+1,Mass Spec,Committed,4515000,4
+1,Chemicals,Prospecting,4985000,3
+1,Chemicals,Qualified,3940000,3
+1,Chemicals,Proposal,2534000,2
+1,Chemicals,Committed,1835000,1
+1,Informatics,Prospecting,5995000,7
+1,Informatics,Qualified,4335000,3
+1,Informatics,Proposal,2944000,3
+1,Informatics,Committed,2247000,1
+2,LC,Prospecting,17603000,12
+2,LC,Qualified,13389000,14
+2,LC,Proposal,8533000,5
+2,LC,Committed,6537000,6
+2,Mass Spec,Prospecting,14451000,8
+2,Mass Spec,Qualified,11241000,7
+2,Mass Spec,Proposal,6512000,7
+2,Mass Spec,Committed,4487000,4
+2,Chemicals,Prospecting,5046000,3
+2,Chemicals,Qualified,3846000,2
+2,Chemicals,Proposal,2473000,3
+2,Chemicals,Committed,1823000,1
+2,Informatics,Prospecting,5958000,5
+2,Informatics,Qualified,4316000,3
+2,Informatics,Proposal,2905000,1
+2,Informatics,Committed,2294000,1
+3,LC,Prospecting,17161000,9
+3,LC,Qualified,12854000,14
+3,LC,Proposal,8464000,6
+3,LC,Committed,6545000,6
+3,Mass Spec,Prospecting,13923000,8
+3,Mass Spec,Qualified,10863000,7
+3,Mass Spec,Proposal,6467000,3
+3,Mass Spec,Committed,4495000,3
+3,Chemicals,Prospecting,4905000,3
+3,Chemicals,Qualified,3841000,2
+3,Chemicals,Proposal,2469000,1
+3,Chemicals,Committed,1871000,1
+3,Informatics,Prospecting,5830000,5
+3,Informatics,Qualified,4305000,2
+3,Informatics,Proposal,2915000,2
+3,Informatics,Committed,2370000,2
+4,LC,Prospecting,16861000,13
+4,LC,Qualified,12914000,10
+4,LC,Proposal,8167000,5
+4,LC,Committed,6657000,6
+4,Mass Spec,Prospecting,14199000,13
+4,Mass Spec,Qualified,10579000,12
+4,Mass Spec,Proposal,6256000,3
+4,Mass Spec,Committed,4652000,3
+4,Chemicals,Prospecting,4986000,4
+4,Chemicals,Qualified,3851000,3
+4,Chemicals,Proposal,2465000,1
+4,Chemicals,Committed,1902000,1
+4,Informatics,Prospecting,5918000,5
+4,Informatics,Qualified,4210000,2
+4,Informatics,Proposal,2967000,2
+4,Informatics,Committed,2358000,1
+5,LC,Prospecting,16202000,15
+5,LC,Qualified,13099000,7
+5,LC,Proposal,8204000,4
+5,LC,Committed,6654000,3
+5,Mass Spec,Prospecting,13910000,8
+5,Mass Spec,Qualified,10403000,7
+5,Mass Spec,Proposal,6096000,3
+5,Mass Spec,Committed,4280000,2
+5,Chemicals,Prospecting,4994000,3
+5,Chemicals,Qualified,3892000,2
+5,Chemicals,Proposal,2436000,1
+5,Chemicals,Committed,1943000,2
+5,Informatics,Prospecting,5985000,4
+5,Informatics,Qualified,4283000,4
+5,Informatics,Proposal,2950000,2
+5,Informatics,Committed,2446000,2
+6,LC,Prospecting,16159000,18
+6,LC,Qualified,13019000,13
+6,LC,Proposal,7947000,9
+6,LC,Committed,6632000,4
+6,Mass Spec,Prospecting,14129000,12
+6,Mass Spec,Qualified,10597000,6
+6,Mass Spec,Proposal,5862000,6
+6,Mass Spec,Committed,3938000,2
+6,Chemicals,Prospecting,4984000,3
+6,Chemicals,Qualified,3752000,4
+6,Chemicals,Proposal,2348000,1
+6,Chemicals,Committed,2013000,1
+6,Informatics,Prospecting,6039000,3
+6,Informatics,Qualified,4248000,2
+6,Informatics,Proposal,2843000,1
+6,Informatics,Committed,2533000,1
+7,LC,Prospecting,16429000,18
+7,LC,Qualified,12691000,12
+7,LC,Proposal,7683000,9
+7,LC,Committed,6944000,3
+7,Mass Spec,Prospecting,14252000,9
+7,Mass Spec,Qualified,10229000,6
+7,Mass Spec,Proposal,5850000,5
+7,Mass Spec,Committed,3623000,3
+7,Chemicals,Prospecting,4814000,3
+7,Chemicals,Qualified,3747000,3
+7,Chemicals,Proposal,2299000,1
+7,Chemicals,Committed,2024000,1
+7,Informatics,Prospecting,5891000,5
+7,Informatics,Qualified,4091000,2
+7,Informatics,Proposal,2792000,2
+7,Informatics,Committed,2624000,1
+8,LC,Prospecting,16268000,9
+8,LC,Qualified,12402000,7
+8,LC,Proposal,7390000,5
+8,LC,Committed,6887000,5
+8,Mass Spec,Prospecting,14343000,12
+8,Mass Spec,Qualified,10107000,11
+8,Mass Spec,Proposal,5805000,5
+8,Mass Spec,Committed,3742000,2
+8,Chemicals,Prospecting,4647000,2
+8,Chemicals,Qualified,3662000,2
+8,Chemicals,Proposal,2207000,2
+8,Chemicals,Committed,2039000,1
+8,Informatics,Prospecting,6001000,7
+8,Informatics,Qualified,4013000,4
+8,Informatics,Proposal,2763000,1
+8,Informatics,Committed,2728000,2
